@@ -71,5 +71,4 @@ It is useful for:
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/singularly-perturbed-bvp-streamlit.git
-cd singularly-perturbed-bvp-streamlit
+App URL(https://zgptudgawfreypzlabv34h.streamlit.app/)
