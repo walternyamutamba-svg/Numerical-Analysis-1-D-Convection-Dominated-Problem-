@@ -153,7 +153,7 @@ def epsilon_sweep(eps_values, b, a, c, ua, uc, N):
 # ------------------------------------------------------------
 # Sidebar
 # ------------------------------------------------------------
-st.title("1D Convection–Diffusion Streamlit App")
+st.title("1D Convection–Diffusion App(Numerical Analysis)")
 st.markdown(
     "Explore how the solution shape, numerical oscillations, and error change as the diffusion coefficient $\\epsilon$ varies."
 )
